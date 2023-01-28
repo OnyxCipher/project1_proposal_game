@@ -1,0 +1,40 @@
+
+My project 1 will be a Prince trivia game
+
+The title of the game will be: May you live 2 see the Dawn
+
+The game will start off with the main board/page.
+It will tell the player what the game is, and what to expect. 
+
+The game will then ask the user a question about Prince. The user can choose either true or false. 
+If the player gets the answer right, they get a point. If the player gets the answer wrong, they get no points. 
+The first player that gets 5 points wins the game.
+The computer is the other player, player 2. 
+
+
+Wire Frames
+
+
+User Stories
+
+
+Add user stories following the _As a [type of user], I want [what the user wants], so that [what it helps accomplish]_ format. Read more about user stories [here](https://www.atlassian.com/agile/project-management/user-stories).
+
+
+As a user, I would like for the user to try their hand at answering questions about Prince, his life, and his music career. 
+
+The player will click the start button.
+The player will see a question.
+The player will choose true or false.
+The player will see a statement "Correct" or "Incorrect"
+The player will earn a point, or no points if incorrect.
+The player will keep playing game until getting to 5 points.
+If the player gets 5 points, they win.
+If the player does not get 5 points, they lose and will be prompted to try and play a new game.
+The computer, player 2, has a chance to beat player 1 as well. 
+
+
+My MVP Goals are to have a game that hosted on the internet with a ReadMe section.  The game will be linked to my github repo. 
+
+
+My Stretch Goals are to make a 2 player game that's fun and challenging.  Making a game with a working product is a stretch goal for me. 
